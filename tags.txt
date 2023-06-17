@@ -1,0 +1,16 @@
+1 - HEADER
+2- MAIN
+3- NAV
+4- IMG
+5- H1
+6- H2
+7- P
+8- A
+9- footer
+10- ul
+11 -li
+12- form
+13- label
+14- input
+15- select
+16- a
